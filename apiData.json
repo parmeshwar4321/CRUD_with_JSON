@@ -1,0 +1,12 @@
+{
+    "id": "1879",
+    "parent_exercise_id": null,
+    "name": "using-json",
+    "slug": "requests__using-json",
+    "sequence_num": 300,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"\\n\\n## Using JSON\\n\\n Jo code humne likha tha, requests library kar kar, courses download karne ke liye, uss code mei yeh changes karo. \\n\\n### Abhi tak woh code kya karta hai?\\n `requests` module use kar kar, courses ka `API Endpoint` ya `URL` call kar kar, data `courses.json` file mei store karta hai. \\n\\n### Ab aapko kya karna hai?\\n\\n Yeh karne se pehle aap apne code mei ek chota sa change karo, ki isse aap fast debugging kar paoge, nahi toh baar baar\\naapko API call khatam hone ka wait karna padega. \"}]",
+    "submission_type": null,
+    "github_link": "https://github.com/navgurukul/newton/tree/master/requests/using-json.md"
+}

@@ -1,0 +1,53 @@
+const students=[{
+  "id": 1,
+  "first_name": "Galina",
+  "last_name": "Urpeth",
+  "email": "gurpeth0@nps.gov"
+}, {
+  "id": 2,
+  "first_name": "Logan",
+  "last_name": "Towse",
+  "email": "ltowse1@ted.com"
+}, {
+  "id": 3,
+  "first_name": "Buddie",
+  "last_name": "Wakerley",
+  "email": "bwakerley2@spiegel.de"
+}, {
+  "id": 4,
+  "first_name": "Steven",
+  "last_name": "Kainz",
+  "email": "skainz3@redcross.org"
+}, {
+  "id": 5,
+  "first_name": "Georgetta",
+  "last_name": "Grubey",
+  "email": "ggrubey4@artisteer.com"
+}, {
+  "id": 6,
+  "first_name": "Saidee",
+  "last_name": "Bresnen",
+  "email": "sbresnen5@nyu.edu"
+}, {
+  "id": 7,
+  "first_name": "Walker",
+  "last_name": "Vant",
+  "email": "wvant6@technorati.com"
+}, {
+  "id": 8,
+  "first_name": "Beniamino",
+  "last_name": "Cunnell",
+  "email": "bcunnell7@etsy.com"
+}, {
+  "id": 9,
+  "first_name": "Edsel",
+  "last_name": "Summerell",
+  "email": "esummerell8@i2i.jp"
+}, {
+  "id": 10,
+  "first_name": "Gilly",
+  "last_name": "Flaunier",
+  "email": "gflaunier9@ox.ac.uk"
+}]
+
+module.exports=students
